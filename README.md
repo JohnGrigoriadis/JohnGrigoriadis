@@ -4,7 +4,7 @@ I'm an AI Engineer with a minor in Data Science dedicated to developing intellig
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python, SQL, SPARQL
+- **Programming Languages:** Python 
 - **Machine Learning Frameworks:** PyTorch, scikit-learn, TensorFlow
 
 ## 🛠️ Projects
