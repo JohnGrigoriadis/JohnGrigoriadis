@@ -9,7 +9,7 @@ I'm an AI Engineer with a minor in Data Science dedicated to developing intellig
 
 ## 🛠️ Projects
 
-### [ARIEL (Ariel: Autonomous Robots through Integrated Evolution and Learning)] ([link-to-project-repo](https://github.com/ci-group/ariel)
+### [ARIEL (Ariel: Autonomous Robots through Integrated Evolution and Learning)]([link-to-project-repo](https://github.com/ci-group/ariel))
 
 ARIEL is the successor to the Revolve2 Evolutionary Programming and Robotics platform created by the CI Group at Vrije Universiteit. It addresses many of the shortcomings of Revolve and improves performance. I worked with CI Group to make this platform a reality and make it usable for programmers and not-programmers alike.
 
