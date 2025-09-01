@@ -9,6 +9,10 @@ I'm an AI Engineer with a minor in Data Science dedicated to developing intellig
 
 ## 🛠️ Projects
 
+### [ARIEL (Ariel: Autonomous Robots through Integrated Evolution and Learning)] ([link-to-project-repo](https://github.com/ci-group/ariel)
+
+ARIEL is the successor to the Revolve2 Evolutionary Programming and Robotics platform created by the CI Group at Vrije Universiteit. It addresses many of the shortcomings of Revolve and improves performance. I worked with CI Group to make this platform a reality and make it usable for programmers and not-programmers alike.
+
 ### [Learning generalist behaviour for traversing different terrains]([link-to-project-repo](https://github.com/JohnGrigoriadis/generalist-controllers-terrain))
 
 The paper addresses the limited understanding of robustness and generalisability in neuro-evolutionary methods, specifically focusing on artificial neural networks (ANNs) used in control tasks, such as those applied in robotics. In the paper, we test the generalisation ability of BipedalWalker controllers when traversing multiple different terrains.
