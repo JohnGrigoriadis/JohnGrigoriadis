@@ -1,4 +1,4 @@
-# Hello, I'm Giannis! 👋
+# Hello, I'm Ioannis! 👋
 
 I'm an AI Engineer with a minor in Data Science and a VU CI Group Member dedicated to developing intelligent systems that drive innovation and efficiency. My expertise spans machine learning, deep learning, and natural language processing, with a focus on creating scalable AI solutions.
 
