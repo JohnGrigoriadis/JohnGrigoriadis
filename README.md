@@ -4,8 +4,10 @@ I'm an AI Engineer with a minor in Data Science and a VU CI Group Member dedicat
 
 ## 🔧 Technologies & Tools
 
-- **Programming Languages:** Python 
-- **Machine Learning Frameworks:** PyTorch, scikit-learn, TensorFlow
+- **Programming & Tools:** Python, NumPy, Pandas, Scikit-learn, Git, Docker
+- **Deep Learning:** PyTorch, TensorFlow, Keras, HuggingFace Transformers
+- **Computer Vision & NLP:** YOLO, OpenCV, LLM fine-tuning, BERT
+- **Other:** SQL
 
 ## 🛠️ Projects
 
