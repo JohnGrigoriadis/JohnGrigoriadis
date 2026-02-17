@@ -12,6 +12,7 @@ I'm an AI Engineer with a minor in Data Science and a VU CI Group Member dedicat
 ## 🛠️ Projects
 
 ### [ARIEL (Ariel: Autonomous Robots through Integrated Evolution and Learning)]([link-to-project-repo](https://github.com/ci-group/ariel))
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnGrigoriadis&repo=ci-group/ariel&description_lines_count=3&theme=vue)](https://github.com/ci-group/ariel)
 
 ARIEL is the successor to the Revolve2 Evolutionary Programming and Robotics platform created by the CI Group at Vrije Universiteit. It addresses many of the shortcomings of Revolve and improves performance. I worked with CI Group to make this platform a reality and make it usable for programmers and not-programmers alike.
 
