@@ -41,8 +41,7 @@ My work focuses on bridging **research and practical deployment**, with experien
 * YOLO, OpenCV, BERT, Transformer-based models
 
 **Cloud & MLOps**
-
-AWS, Azure, Google Cloud, GitHub Actions, containerised workflows
+* AWS, Azure, Google Cloud, GitHub Actions, containerised workflows
 
 ---
 
