@@ -32,16 +32,13 @@ My work focuses on bridging **research and practical deployment**, with experien
 ## 🧠 Technical Skills
 
 **Languages & Tools**
-
-Python, NumPy, Pandas, Scikit-learn, Git, Docker, SQL, FastAPI
+* Python, NumPy, Pandas, Scikit-learn, Git, Docker, SQL, FastAPI
 
 **Machine Learning & AI**
-
-PyTorch, TensorFlow, HuggingFace, Transformers, RAG, LLM systems
+* PyTorch, TensorFlow, HuggingFace, Transformers, RAG, LLM systems
 
 **Computer Vision & NLP**
-
-YOLO, OpenCV, BERT, Transformer-based models
+* YOLO, OpenCV, BERT, Transformer-based models
 
 **Cloud & MLOps**
 
