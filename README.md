@@ -25,7 +25,7 @@ I wanted to challenge myself to make the classic Windows game Minesweeper in Pyt
 
 ## 📈 GitHub Stats
 
-[![My GitHub Stats](https://github-stats-extended.vercel.app/api?username=JohnGrigoriadis)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=JohnGrigoriadis&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=vue)](https://github-stats-extended.vercel.app/api?username=JohnGrigoriadis&rank_icon=github&custom_title=My%20GitHub%20Stats&show_icons=true&theme=vue)
 
 ## 📫 Let's Connect
 
