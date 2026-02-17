@@ -22,7 +22,7 @@ ARIEL is the successor to the Revolve2 Evolutionary Programming and Robotics pla
 
 The paper addresses the limited understanding of robustness and generalisability in neuro-evolutionary methods, specifically focusing on artificial neural networks (ANNs) used in control tasks, such as those applied in robotics. In the paper, we test the generalisation ability of BipedalWalker controllers when traversing multiple different terrains.
 
-### [Minesweeper]([link-to-project-repo](https://github.com/JohnGrigoriadis/MineSweeper))
+### [Minesweeper]([https://github.com/JohnGrigoriadis/MineSweeper])
 
 I wanted to challenge myself to make the classic Windows game Minesweeper in Python all by myself with only the documentation for help. Turned out better than I expected for only a few hours of work.
 
