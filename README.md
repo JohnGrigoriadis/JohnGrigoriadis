@@ -57,7 +57,7 @@ My contributions focus on:
 * extending usability for both researchers and students
 
 ---
-### [Learning generalist behaviour for traversing different terrains]([link-to-project-repo](https://github.com/JohnGrigoriadis/generalist-controllers-terrain))
+### 🔹 [Learning generalist behaviour for traversing different terrains](https://github.com/JohnGrigoriadis/generalist-controllers-terrain)
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/pin?username=JohnGrigoriadis&repo=JohnGrigoriadis/generalist-controllers-terrain&description_lines_count=3&theme=vue)](https://github.com/JohnGrigoriadis/generalist-controllers-terrain)
 
@@ -66,7 +66,7 @@ Research on **robust generalisation in neuroevolution**:
 * Improved performance across unseen terrains
 * Reduced compute vs specialised controllers
 
-### [Minesweeper]([https://github.com/JohnGrigoriadis/MineSweeper])
+### 🔹 [Minesweeper](https://github.com/JohnGrigoriadis/MineSweeper)
 
 I wanted to challenge myself to make the classic Windows game Minesweeper in Python all by myself with only the documentation for help. Turned out better than I expected for only a few hours of work.
 
