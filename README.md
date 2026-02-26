@@ -16,12 +16,12 @@ My work focuses on bridging **research and practical deployment**, with experien
 * 🌿 **Machine Learning Engineer @ Olivabot**
   Built computer vision + LLM pipelines for agricultural analytics:
 
-  * YOLO-based olive detection
+  * YOLO-based object detection
   * Tree-density estimation from drone imagery
   * RAG pipelines for grounded insights and reporting
 
 * 🎓 **Teaching Assistant @ VU Amsterdam**
-  Mentoring students in AI topics including:
+  Mentoring students in AI topics, including:
 
   * Reinforcement Learning
   * Multi-agent systems
