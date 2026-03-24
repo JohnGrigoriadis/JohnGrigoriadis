@@ -79,7 +79,6 @@ I wanted to challenge myself to make the classic Windows game Minesweeper in Pyt
 ## 📫 Contact
 
 * 💼 [LinkedIn](https://www.linkedin.com/in/giannis-grigoriadis-2a7a55261)
-* 💻 [GitHub](https://github.com/JohnGrigoriadis)
 
 ---
 
